@@ -1,9 +1,11 @@
 {
     "admins": [
-      "shivanimehrotra9"
+      "shivani",
+        "Admin"
     ],
     "builders": [
-      "steven-tkpd"
+      "steven",
+        "ravi"
     ],
     "readers": ["anonymous"]
 }
