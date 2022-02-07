@@ -9,8 +9,7 @@
     ],
     "builders": [
       "steven",
-        "ravi",
-        "demo"
+        "ravi"
     ],
     "readers": ["anonymous"],
     "developers": ["dev1"]
