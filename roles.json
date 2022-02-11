@@ -12,5 +12,5 @@
         "ravi"
     ],
     "readers": ["anonymous"],
-    "developers": ["dev1"]
+    "developers": ["dev1","abc"]
 }
